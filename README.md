@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kakri787, a university undergraduate from Singapore pursuing a computer science degree at Nanyang Technological University, Singapore
-- 🌱 I’m currently trying to learn new skills by working on personal projects, such as using lua and love2d framework to make a simple game.
+- 🌱 I like learning new skills by working on personal projects, such as using lua and love2d framework to make a simple game.
 
 
 
